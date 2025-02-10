@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Wei's Academic Homepage"
 description              : "Welcome to my academic homepage!"
-repository               : "WeiLi/WeiLi.github.io"
+repository               : "weili/weili.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
