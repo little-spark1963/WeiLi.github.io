@@ -12,7 +12,7 @@
 
 - **Undergraduate (2019-2023):** Beijing Institute of Technology, Mathematics and Applied Mathematics
 - **Minor (2020-2023):** Beijing Institute of Technology, Artificial Intelligence
-- **Graduate (2024-):** École Polytechnique, Engineering Program
+- **Graduate (2024-):** Institut polytechnique de Paris, Engineering Program
 
 ## Major Courses
 
