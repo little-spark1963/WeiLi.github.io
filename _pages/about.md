@@ -6,7 +6,7 @@
 - **Current Position:** Master's Student
 - **Field of Study:** Artificial Intelligence
 - **Email:** Bitstu1963.com
-- **Current Program:** French Engineering Program at École Polytechnique
+- **Current Program:** French Engineering Program at Institut polytechnique de Paris
 
 ## Education Background
 
