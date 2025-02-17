@@ -9,6 +9,8 @@
 title                    : "Wei's Academic Homepage"
 description              : "Welcome to my academic homepage!"
 repository               : "little-spark1963/weilii.github.io"
+url: "https://little-spark1963.github.io"  # 你的 GitHub Pages 地址
+baseurl: "/weilii"  # 如果你的主页不在根目录下，需要设置此项
 google_scholar_stats_use_cdn : false
 
 # google analytics
